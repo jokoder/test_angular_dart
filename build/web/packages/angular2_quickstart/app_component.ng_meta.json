@@ -1,0 +1,13 @@
+{
+  "ngDeps": null,
+  "type": {
+    "AppComponent": {
+      "class": "Identifier",
+      "name": "AppComponent",
+      "moduleUrl": "asset:angular2_quickstart/lib/app_component.dart",
+      "prefix": null,
+      "value": null
+    }
+  },
+  "alias": {}
+}
